@@ -110,7 +110,7 @@
     "@silexlabs/silex-plugins": "1.0.10",
     "@types/archiver": "^6.0.1",
     "adm-zip": "0.5.10",
-    "archiver": "^6.0.1",
+    "archiver": "^7.0.0",
     "basic-ftp": "^5.0.3",
     "body-parser": "1.20.2",
     "cli": "1.0.1",
